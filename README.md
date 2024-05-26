@@ -23,7 +23,7 @@
 <div> 
   <a href="https://www.instagram.com/jose_miguel973?igsh=M2loM3g1cmtjeTA1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jmigueldasilva953@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/josé-miguel-da-silva-760b8230b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 # ![snake gif](https://github.com/JMiguelsilva2003/JMiguelsilva2003/blob/output/github-contribution-grid-snake.gif)
